@@ -15,7 +15,7 @@ The dataset includes:
 ## 🔍 Approach  
 1️⃣ **Exploratory Data Analysis** – Identified key trends & imbalances.  
 2️⃣ **Preprocessing** – Handled missing data, encoded categorical variables, and balanced the dataset using **SMOTE**.  
-3️⃣ **Modeling** – Tested **Logistic Regression, Random Forest, and Gradient Boosting**.  
+3️⃣ **Modeling** – Tested **Logistic Regression and Random Forest**.  
 4️⃣ **Evaluation** – **Random Forest** performed best with **97% accuracy**!  
 5️⃣ **Key Insights**:  
    - 📌 **FICO score** and **credit history** are strong indicators of loan approval.  
