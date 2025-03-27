@@ -27,11 +27,6 @@ The dataset includes:
 ✅ **Adjust interest rates** based on borrower risk profiles.  
 ✅ **Introduce targeted loan products** for specific borrower segments.  
 
-## ⚙️ Requirements  
+## ⚙️ Technologies  
 - 🐍 Python 3.x  
 - 📦 Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-
-## 🚀 Usage  
-1️⃣ Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
